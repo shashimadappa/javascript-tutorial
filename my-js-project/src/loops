@@ -1,3 +1,14 @@
+/**
+ * "JavaScript provides multiple types of loops: for, while, do...while, for...in, and for...of. 
+ * Each has its ideal use case — for example, for for fixed iterations, while for uncertain conditions, 
+ * 
+ * for...in for object keys,
+ * 
+ *  and for...of for values in iterable collections like arrays and strings."
+ */
+
+
+
 // for (let i = 0; i < 5; i++) {
 //   console.log(i);
 // }
