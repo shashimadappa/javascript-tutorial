@@ -24,7 +24,8 @@ console.log(str.replace("JavaScript", "World")); // " Hello, World! "
 console.log(str.replaceAll(" ", "_"));           // "_Hello,_JavaScript!_"
 
 // 🧩 Slicing
-console.log(str.slice(1, 6));       // "Hello"
+
+console.log(str.slice(1, 6));       // "Hello"          " Hello, JavaScript! ";            
 console.log(str.slice(-6));         // "ipt! "
 
 // 📦 Splitting

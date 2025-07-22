@@ -29,7 +29,6 @@ console.log(str.endsWith("!  "));    // true
 // 🧩 5. Extract Substrings
 console.log(str.slice(2, 7));        // "Hello"
 console.log(str.substring(2, 7));    // "Hello"
-console.log(str.substr(2, 5));       // "Hello" (deprecated but still works)
 
 // 🔄 6. Replace Text
 console.log(str.replace("World", "Universe")); // "  Hello, Universe!  "
